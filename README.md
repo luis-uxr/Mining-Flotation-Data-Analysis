@@ -1,7 +1,7 @@
 # Mining-Flotation-Data-Analysis
 Exploratory Python analysis of 737,453 time-stamped sensor records from a flotation plant to help engineering stakeholders explain and anticipate operational anomalies.
 
-📊 Dataset: [Download CSV](https://1drv.ms/x/c/2fda181d9f583e5d/ESKZvWhXFUhGm7mZe3P1iV0BrKs0MVvQW6Hng1PJ4kNdEA?e=12KriO)
+📊 Dataset: [Download CSV](https://1drv.ms/u/c/2fda181d9f583e5d/EShTmQaCL3FDlliPEfSUIBMBqr4Ebu6a5xF3G8gQj58Jxw?e=ywp5hh)
 
 **Python | Time Series Analysis**
 ◾ Framed sensor relationships as shifting patterns to support stakeholder sensemaking and surface practical questions to investigate.
